@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 
 Yixuan's Quote
@@ -15,3 +16,8 @@ Over hill, over dale, thorough bush
 
 ”The main dangers in this life are the people who want to change nothing.” —Nancy Astor
 
+
+It is not titles that make men illustrious, but men who make titles illustrious.
+
+---Niccolo Machiavelli
+>>>>>>> 3962a02b2707b2ba71929e49e81e1a29ecfe652c
